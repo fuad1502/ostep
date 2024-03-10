@@ -1,12 +1,9 @@
 #define _GNU_SOURCE
-#include <bits/time.h>
-#include <fcntl.h>
 #include <sched.h>
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/wait.h>
 #include <time.h>
-#include <unistd.h>
 
 #define N 1000000
 

@@ -1,0 +1,6 @@
+[submodule "ostep-projects-riscv"]
+	path = ostep-projects-riscv
+	url = git@github.com:fuad1502/ostep-projects-riscv.git
+[submodule "hacked-xv6-riscv"]
+	path = hacked-xv6-riscv
+	url = git@github.com:fuad1502/hacked-xv6-riscv.git
